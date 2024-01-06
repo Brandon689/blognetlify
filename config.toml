@@ -147,7 +147,7 @@ seo = true  # enable or disable seo-related meta tags: opengraph, facebook, twit
 ###   https://github.com/Jieiku/abridge/blob/master/templates/macros/social.html
 ###############################################################################
 
-feed = true # this adds the RSS feed icon in the footer.
+feed = false # this adds the RSS feed icon in the footer.
 mail = "name@example.com"
 mastodon = "@your-user-name"
 element = "matrix.example.com"
@@ -158,7 +158,7 @@ twitter = "your-user-name"
 facebook = "your-user-name"
 linkedin = "your-user-name"
 gitlab = "your-user-name"
-github = "your-user-name"
+github = "Brandon689"
 codeberg = "your-user-name" # Everything after https://codeberg.org/   eg: username  *or*  username/repository
 github_sponsor = "your-user-name"
 bitbucket = "your-user-name"
